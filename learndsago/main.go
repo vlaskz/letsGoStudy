@@ -1,8 +1,8 @@
 package main
 
 // Main is the function which runs the others to test
-import p "./designPatterns/structural/proxy"
+import l "./complexity/bigO/cubic"
 
 func main() {
-	p.Example()
+	l.Example()
 }
